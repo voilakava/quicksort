@@ -1,0 +1,4 @@
+﻿  QuickSort.cpp
+C:\Users\Klepa\Desktop\курсовая\QuickSort\QuickSort\QuickAlgo.cpp(38,36): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Klepa\Desktop\курсовая\QuickSort\QuickSort\QuickSort.cpp(35,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  QuickSort.vcxproj -> C:\Users\Klepa\Desktop\курсовая\QuickSort\x64\Debug\QuickSort.exe
